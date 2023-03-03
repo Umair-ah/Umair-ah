@@ -9,8 +9,8 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users//users/20214145/uma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/20214145/uma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/umair-ahmed-70825b239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umair-ahmed-70825b239/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20214145/uma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/20214145/uma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/umair-ahmed-70825b239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umair-ahmed-70825b239/" height="30" width="40" /></a>
 <a href="https://instagram.com/umair__ah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umair__ah" height="30" width="40" /></a>
 <a href="https://twitter.com/zemotic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemotic" height="30" width="40" /></a>
 <a href="https://www.behance.net/zemotic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zemotic" height="30" width="40" /></a>
