@@ -1,5 +1,5 @@
-# 💫 About Me:
-A Self Taught Developer<br>⚡ I’m currently learning Ruby On Rails<br><br>🌱 I’m a Graphic Designer Photoshop<br><br>📫 Contact me: umairahmed200203.umair@gmail.com
+# About Me:
+A Self Taught Developer<br>- ⚡ I’m currently learning Ruby On Rails<br><br>- 🌱 I’m a Graphic Designer Photoshop<br><br>- 📫 Contact me: umairahmed200203.umair@gmail.com
 
 
 ## 🌐 Socials:
