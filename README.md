@@ -14,7 +14,10 @@ A Self Taught Developer<br>- ⚡ I’m currently learning | Ruby On Rails<br><br
 # 💻 Tech Stack:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
+### 📕 Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+- [Rails 7 — Active Storage and FilePond](https://medium.com/@umairahmed200203.umair/rails-7-active-storage-and-filepond-e2d5c9a35ee5)
 
 
 
