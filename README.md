@@ -20,4 +20,8 @@ A Self Taught Developer<br><br>- https://umair-ah.github.io/dev/<br><br><br>- �
 - [Rails 7 — Active Storage and FilePond](https://medium.com/@umairahmed200203.umair/rails-7-active-storage-and-filepond-e2d5c9a35ee5)
 
 
+### 📘 My Rails Turbo Hotwire Course
+https://www.udemy.com/course/build-an-ecommerce-website-turbo-hotwire-ruby-on-rails/?referralCode=6687055CF64F186650E0
+
+
 
