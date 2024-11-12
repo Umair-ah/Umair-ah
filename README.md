@@ -1,5 +1,5 @@
 # About Me:
-A Self Taught Developer<br><br>- https://umair-ah.github.io/dev/<br><br><br>- ⚡ I’m currently learning | Ruby On Rails<br><br>- 📫 Contact me: umairahmed200203.umair@gmail.com
+A Self Taught Developer<br><br>- https://umair-ah.github.io/dev/<br><br><br>- ⚡ Fullstack Dev. | Ruby On Rails<br><br>- 📫 Contact me: umairahmed200203.umair@gmail.com
 
 
 ## 🌐 Socials:
