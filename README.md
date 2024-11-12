@@ -16,6 +16,8 @@ A Self Taught Developer<br><br>- https://umair-ah.github.io/dev/<br><br><br>- �
 
 ### 📕 Blog Posts
 
+- [Host Ruby on Rails App using AWS EC2](https://medium.com/@umairahmed200203.umair/host-ruby-on-rails-app-on-aws-ec2-2a8ab3ccfa40)
+
 <!-- BLOG-POST-LIST:START -->
 - [Rails 7 — Active Storage and FilePond](https://medium.com/@umairahmed200203.umair/rails-7-active-storage-and-filepond-e2d5c9a35ee5)
 
