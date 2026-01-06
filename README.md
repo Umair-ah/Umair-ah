@@ -1,5 +1,5 @@
 # About Me:
-A Self Taught Developer<br><br>- https://umair-ah.github.io/dev/<br><br><br>- ⚡ Fullstack Dev. | Ruby On Rails | ReactJS | ExpressJS | NodeJS | Python | Javascript | Oracle | MySQL | PostgreSQL | Docker | Kubernetes <br><br>- 📫 Contact me: umair.dev.analyst@gmail.com
+A Self Taught Developer<br><br>- https://umair-ah.github.io/dev/<br><br><br>- ⚡ Fullstack Dev. .NET | Ruby On Rails | ReactJS | ExpressJS | NodeJS | Python | Javascript | SQL Server | MySQL | PostgreSQL | Docker | Kubernetes <br><br>- 📫 Contact me: umair.dev.analyst@gmail.com
 
 
 ## 🌐 Socials:
